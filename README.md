@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dazzae-exe, it's a pleasure to meet you.
 - 👀 I’m interested in grow my little knowlegde in programming and keep learning.
-- 🌱 I’m currently learning HTML, CCS3, LESS, SASS, FLEXBOX, GRID, BOOTSTRAP.
+- 🌱 I’m currently learning JavaScript, jQuery, Angular, NodeJS.
 - 💞️ I’m looking to collaborate on very basics websites for start coding by myself and get experience.
 
 <!---
