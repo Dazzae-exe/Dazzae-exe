@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Dazzae-exe, it's a pleasure to meet you. I'm 24 years old. I'm going for my first year programming and learning from courses and free courses too.
-- I’m currently practicing JavaScript and learning React creating cool stuff.
-- I've done courses about HTML5, CSS3, Flexbox, Grid, Responsive web design, JavaScript, TypeScript(Have to practice it more), NodeJS, React(Learning React), Git basics.
-- I'm working in great projects for you that are watching my repository (stay tuned watcher, you will see some colest webapps here soon).
-Working to be a great developer self-taught every day.
+- 👋 Hi, I’m @Dazzae-exe, it's a pleasure to meet you. I'm 24 years old.
+- I’m currently learning JavaScript.
+- I've done courses about HTML5, CSS3, Flexbox, Grid, Responsive Web Design, JavaScript, Git basics.
+- I'm working in great projects which you can watch them in my repository. Working to be a great Developer everyday.
 
 <!---
 Dazzae-exe/Dazzae-exe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
