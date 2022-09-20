@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dazzae-exe, it's a pleasure to meet you. I'm 25 years old.
-- I’m currently learning JavaScript.
-- I've done courses about HTML5, CSS3, Flexbox, Grid, Responsive Web Design, JavaScript, Git basics.
-- I'm working in great projects which you can watch them in my repository. Working to be a great Developer everyday.
+- 📚 I’m currently learning and working with SvelteKit and, ReactJS too.
+- ✅ I've done courses about HTML5, CSS3, JavaScript, Git, React / SvelteKit.
+- 👨🏻‍💻 I'm working to be a better Developer everyday by making mistakes and fixing them.
 
 <!---
 Dazzae-exe/Dazzae-exe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
