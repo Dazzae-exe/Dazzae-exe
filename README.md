@@ -1,5 +1,5 @@
 # Hi there 👋🏻!
-__I am Christian Marin based in Aragua, Venezuela 🇻🇪__. In addition to just hack the net, I like to play football and not only I do play it. It is my favorite sport. Furthermore, I love productive days in company of a coffee cup every morning through the week. I like to go out with friends or just me and, distract myself away of tech-stress just walking, hiking, drinking any kind of drink with friends, any other natural situation. When I don't have any plan for the weekend I like to have fun practicing my knowledge or have fun playing videogames on the playstation.
+__I am Christian Marin based in Aragua, Venezuela 🇻🇪__. In addition to just hack the net, I like to play football and not only watch it, I do play it. It is my favorite sport. Furthermore, I love productive days in company of a coffee cup every morning through the week. I like to go out with friends or just me and, distract myself away of tech-stress just walking, hiking, drinking any kind of drink with friends, any other natural situation. When I don't have any plan for the weekend I like to have fun practicing my knowledge or have fun playing videogames on the playstation.
 
 __Goals for this year__:
 1. Land a second job.
