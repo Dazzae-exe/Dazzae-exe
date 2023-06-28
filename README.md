@@ -1,9 +1,12 @@
 ## What do I do?
-Currently, I am a student of [@Platzi](https://platzi.com).
+I am a student of [@Platzi](https://platzi.com) and I'm studying software development. I like the afternoon with coffee and code, gaming at night on weekends, freelancing, and looking for remote jobs in the mornings.
+
+Free for open source projects, let's talk.
  
 ## Experiences
-* I have worked with [_Katavi Gaming Limited_](https://tbet.co.tz) for 1+ year using my knowledge and also, learning more about other framework as Svelte for different projects ongoing by the company. 
+* I have worked with *Katavi Gaming Limited* for 1+ years using my knowledge and also, learning more about Svelte for different projects ongoing by the company.
 * [_Upwork freelancer service of Web Development_](https://www.upwork.com/freelancers/~01b2619ccbe701fea7).
+* I supported react community by translating docs from English to Spanish for the new docs.
 
 
 <!---
