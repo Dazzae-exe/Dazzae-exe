@@ -1,5 +1,5 @@
-## Knowledge
-Currently, I am a student from [@Platzi](https://platzi.com).
+## What do I do?
+Currently, I am a student of [@Platzi](https://platzi.com).
  
 ## Experiences
 * I have worked with [_Katavi Gaming Limited_](https://tbet.co.tz) for 1+ year using my knowledge and also, learning more about other framework as Svelte for different projects ongoing by the company. 
