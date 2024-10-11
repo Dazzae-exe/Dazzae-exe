@@ -5,7 +5,6 @@ Do you want to build your app or website with me? Feel free to send me a message
 ## Experiences
 * Building and enhancing components that improved the user experience across the app and improved the data request achieving a website that loads faster for **TBet**. 
 * Freelancing on Upwork.
-* 
 
 ## My personal stack
 - library: react with vite
