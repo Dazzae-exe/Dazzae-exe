@@ -1,22 +1,22 @@
 # Who?
-Front-end Developer working remotely from Venezuela. I love building apps or websites that work and fit for any project properly.
-Wanna build your app or website with me? Send me a DM on twitter.
+Front-end developer working remotely from Venezuela. I love building apps or websites that properly fit any project.
+Do you want to build your app or website with me? Feel free to send me a message.
  
 ## Experiences
-* Building and enhancing components that improved the user experience across the app and improving the data request achieving a website that loads more faster for **TBet**. 
+* Building and enhancing components that improved the user experience across the app and improved the data request achieving a website that loads faster for **TBet**. 
 * Freelancing on Upwork.
-* Projects with local bussiness.
+* 
 
 ## My personal stack
-- library: react.js not typescript
+- library: react with vite
 - css: tailwindcss
-- ui: shadcn or acernity
-- framework: nextJS
-- app land: vercel
+- ui: shadcn & acernity (a few times)
+- framework: next
+- hosting: vercel
 - db and auth: supabase
 
 ## What am I learning?
-Currently, typescript entry level.
+Currently, typescript is at the entry-level.
 
 <!---
 Dazzae-exe/Dazzae-exe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
