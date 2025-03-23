@@ -1,4 +1,4 @@
-## Hi there! 👋🏻
+### Hi there! 👋🏻
 I am a Software Developer from Venezuela who loves coffee and react. 
 I like to practice code on Codedex in my free time. I wonder if I would get a nice idea for my startup someday...
 
