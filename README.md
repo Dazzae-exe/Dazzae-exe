@@ -1,21 +1,15 @@
-# About
-I am a front-end developer working remotely in Venezuela for three years. I love building stuff online with ppl or without ppl. 
- 
-## Experiences
-* Building and enhancing components that improved the user experience across the app and improved the data request achieving a website that loads faster for **TBet**. 
-* Freelancing on Upwork.
-* Local business websites and stores.
-* Working at Chicks Gold currently.
+## Hi there! 👋🏻
+I am a Software Developer from Venezuela who loves coffee and react. 
+I like to practice code on Codedex in my free time. I wonder if I would get a nice idea for my startup someday...
 
-## My stack
-- library: react
-- css: tailwindcss / scss 
-- ui: shadcn
-- framework: next
-- backend: supabase
+### What am I learning?
+I am learning TypeScript and more about building with Aurelia Framework.
 
-## What am I learning?
-Currently, typescript.
+### My daily stack
+- html
+- React / nextjs / aurelia
+- css /scss / tailwindcss
+- supabase
 
 <!---
 Dazzae-exe/Dazzae-exe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
