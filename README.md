@@ -7,8 +7,9 @@ I am learning TypeScript and more about building with Aurelia Framework.
 
 ### My daily stack
 - html
-- React / nextjs / aurelia
-- css /scss / tailwindcss
+- css / scss / tailwindcss
+- javascript
+- React / Nextjs / Aurelia
 - supabase
 
 <!---
