@@ -2,7 +2,7 @@
 I am a Software Engineer based in Venezuela. As a dedicated SWE, I specialize in crafting high-quality products where sleek design meets rock-solid engineering. 
 I thrive at the intersection of aesthetics and functionality, delivering visually captivating interfaces backed by scalable, performant code.
 
-I am working in **Chicks Gold Inc** from Canada as Contractor Software Engineer currently. 
+I am working in **Chicks Group Inc.** from Canada as Contractor Software Engineer currently. 
 
 I've built more apps than all my repositories projects so far since I began my career. *I am still available and open for new opportunities.*
 
