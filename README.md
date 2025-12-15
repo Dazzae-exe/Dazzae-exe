@@ -1,15 +1,22 @@
-### Hi there! 👋🏻
-I am a Software Developer from Venezuela who loves coffee and react.
+## Hi there! 👋🏻
+I am a Software Engineer based in Venezuela. As a dedicated SWE, I specialize in crafting high-quality products where sleek design meets rock-solid engineering. 
+I thrive at the intersection of aesthetics and functionality, delivering visually captivating interfaces backed by scalable, performant code.
 
-### What am I learning?
-I am learning TypeScript and more about building with Aurelia Framework.
+I am working in **Chicks Gold Inc** from Canada as Contractor Software Engineer currently. 
 
-### My daily stack
+I've built more apps than all my repositories projects so far since I began my career. *I am still available and open for new opportunities.*
+
+*I promise I will reach more than 1k commits next year.*
+
+I am working on my own personal app to make more accesible tools for self-taught programmers, designers, CMs and, more.
+
+### My skills journey
 - html
 - css / scss / tailwindcss
-- javascript
-- react / nextjs / aurelia / svelte
-- supabase
+- javascript / typescript (still learning this one tho)
+- aurelia / react / svelte
+- supabase / mongodb / firestore
+- postgreSQL
 
 <!---
 Dazzae-exe/Dazzae-exe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
