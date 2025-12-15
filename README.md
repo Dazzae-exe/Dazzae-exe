@@ -8,7 +8,7 @@ I've built more apps than all my repositories projects so far since I began my c
 
 *I promise I will reach more than 1k commits next year.*
 
-I am working on my own personal app to make more accesible tools for self-taught programmers, designers, CMs and, more.
+I am working on my own personal app to make more accesible tools for self-taught programmers, designers, CMs and, more. Also, I am opening back my old project `Pharos Market` which I will start after I land my app for self-taught people.
 
 ### My skills journey
 - html
