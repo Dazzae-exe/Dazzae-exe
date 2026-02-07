@@ -13,7 +13,7 @@ I am working on my own personal app to make more accesible tools for self-taught
 ### My skills journey
 - html
 - css / scss / tailwindcss
-- javascript / typescript (still learning this one tho)
+- javascript / typescript
 - aurelia / react / svelte
 - supabase / mongodb / firestore
 - postgreSQL
