@@ -6,7 +6,7 @@ I thrive at the intersection of aesthetics and functionality, delivering visuall
 - html
 - css / scss / tailwindcss
 - javascript / typescript
-- aurelia / react / svelte
+- react / svelte
 - supabase / mongodb / firestore
 - postgreSQL
 
