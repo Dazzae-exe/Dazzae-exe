@@ -6,6 +6,16 @@ I thrive at the intersection of aesthetics and functionality, delivering visuall
 
 - TBet (2021-2022)
 - Chicks Gold (2024-Current)
+
+### Skills
+
+- JavaScript
+- React / Next.js
+- TypeScript
+- NodeJS
+- Supabase
+- PostgreSQL / MySQL
+
 <!---
 Dazzae-exe/Dazzae-exe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
