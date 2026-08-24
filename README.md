@@ -4,8 +4,15 @@ I thrive at the intersection of aesthetics and functionality, delivering visuall
 
 ### Carreer - 🧑🏻‍💻
 
-- TBet (2021-2022)
-- Chicks Gold (2024-Current)
+- TBet (2021 - 2022)
+- Freelance (2022 - 2024)
+- Chicks Gold (2024 - Current)
+
+### Building 
+
+- (https://psycloud.online/)[Psycloud - 🧠]
+- (https://p2pservicios.com/)[P2P Bot Service - 🤖]
+- RPG Productive Coding Experience soon...
 
 ### Skills
 
