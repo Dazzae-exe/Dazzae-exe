@@ -10,8 +10,8 @@ I thrive at the intersection of aesthetics and functionality, delivering visuall
 
 ### Building 
 
-- (https://psycloud.online/)[Psycloud - 🧠]
-- (https://p2pservicios.com/)[P2P Bot Service - 🤖]
+- [Psycloud - 🧠](https://psycloud.online/)
+- [P2P Bot Service - 🤖](https://p2pservicios.com/)
 - RPG Productive Coding Experience soon...
 
 ### Skills
