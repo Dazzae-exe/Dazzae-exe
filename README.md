@@ -2,18 +2,6 @@
 I am a Software Engineer based in Venezuela. As a dedicated SWE, I specialize in crafting high-quality products where sleek design meets rock-solid engineering. 
 I thrive at the intersection of aesthetics and functionality, delivering visually captivating interfaces backed by scalable, performant code.
 
-### Carreer - 🧑🏻‍💻
-
-- TBet (2021 - 2022)
-- Freelance (2022 - 2024)
-- Chicks Gold (2024 - Current)
-
-### Building 
-
-- [Psycloud - 🧠](https://psycloud.online/)
-- [P2P Bot Service - 🤖](https://p2pservicios.com/)
-- RPG Productive Coding Experience soon...
-
 ### Skills
 
 - JavaScript
@@ -22,6 +10,17 @@ I thrive at the intersection of aesthetics and functionality, delivering visuall
 - NodeJS
 - Supabase
 - PostgreSQL / MySQL
+
+### Building 
+
+- [Psycloud - 🧠](https://psycloud.online/)
+- [P2P Bot Service - 🤖](https://p2pservicios.com/)
+
+### Carreer - 🧑🏻‍💻
+
+- TBet (2021 - 2022)
+- Freelance (2022 - 2024)
+- Chicks Gold (2024 - Current)
 
 <!---
 Dazzae-exe/Dazzae-exe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
