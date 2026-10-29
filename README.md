@@ -14,7 +14,6 @@ I thrive at the intersection of aesthetics and functionality, delivering visuall
 ### Building 
 
 - [Psycloud - 🧠](https://psycloud.online/)
-- [P2P Bot Service - 🤖](https://p2pservicios.com/)
 
 ### Carreer - 🧑🏻‍💻
 
