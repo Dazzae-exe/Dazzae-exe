@@ -9,7 +9,7 @@ I thrive at the intersection of aesthetics and functionality, delivering visuall
 - TypeScript
 - NodeJS
 - Supabase
-- PostgreSQL / MySQL
+- PostgreSQL
 
 ### Building 
 
@@ -17,8 +17,8 @@ I thrive at the intersection of aesthetics and functionality, delivering visuall
 
 ### Carreer - 🧑🏻‍💻
 
-- TBet (2021 - 2022)
-- Freelance (2022 - 2024)
+- TBet (2021 - 2023)
+- Freelance (2023 - 2024)
 - Chicks Gold (2024 - Current)
 
 <!---
